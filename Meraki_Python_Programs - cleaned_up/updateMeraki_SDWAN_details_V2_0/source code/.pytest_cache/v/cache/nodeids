@@ -1,0 +1,21 @@
+[
+  "test_updateMeraki_SDWAN_details/test_another_sum.py::test_another_sum",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testAPIKeyGen",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testAddAllDataToTestStorePage",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testAddNotesDataToStorePage",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testAddTagDataToTestStorePage",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testCheckIfMerakiNotesAndCSVNotesDifferent",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testCheckIfMerakiTagsAndCSVTagsDifferent",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testDoStoreNumbersMatch",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testFindCSVStoreNumberMatch",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testFormatNotesString",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetAPIDashboard",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetMXAppliances",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetMXDeviceSerialNumber",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetMXDeviceStoreNumber",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetMxDeviceNotes",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetNotesDataFromRowData",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetRowDataFromCSV",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testGetTagDataFromRowData",
+  "test_updateMeraki_SDWAN_details/test_updateMeraki_SDWAN_details.py::testOrgIDCapture"
+]

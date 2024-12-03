@@ -1,0 +1,15 @@
+[
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testAPIKeyGen",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testAddUpByteInfo",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testButtonPressTextSend",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testConvertListFromByteToMB",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testCreateListEntry",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testCreateWorkbook",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testGetAPIDashboard",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testGetNetworks",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testGetWANDetails",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testMakeGUI",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testSpecificStores",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testTextFromTextbox",
+  "test_getMeraki_WAN_Data_Details/test_getMeraki_WAN_Data_Details.py::testTextInputSanitization"
+]

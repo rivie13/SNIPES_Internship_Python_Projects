@@ -1,0 +1,13 @@
+[
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testAPIKeyGen",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testCheckIfSettingsNeedUpdate",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testEverything",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testGetAPIDashboard",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testGetDeviceTrafficSettingSelections",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testGetMXAppliances",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testGetMXDeviceName",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testGetMXDeviceTags",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testGetNetworkID",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testUpdateTrafficSettings",
+  "test_updateMeraki_WAN_Traffic_Preferences/test_updateMeraki_WAN_Traffic_Preferences.py::testorgIDCapture"
+]
